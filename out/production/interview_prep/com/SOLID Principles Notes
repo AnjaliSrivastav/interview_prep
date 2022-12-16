@@ -1,0 +1,12 @@
+//ALL the priciples are explained well but I didn't understand the last one (Dependency-Inversion) here.
+---------------------------------------------------------
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898 -> one medium blog I found helpful.(but still I don't understand Dependency-Inversion well using this.)
+ 
+ //Line from the blog ->(L — Liskov Substitution)
+ "If you have a Class and create another Class from it, it becomes a parent and the new Class becomes a child. The child Class should be able to do everything the parent Class can do. 
+This process is called Inheritance."
+
+//I understand Dependency-Inversion well using this article.
+----------------------------------------
+https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#interface-segregation-principle
